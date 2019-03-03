@@ -1,5 +1,5 @@
 # RESUME
-My name is Siarhei Nikitsin. I'm Junior Frontend Developer and I have a real work experience for an about 1,5 years. I worked in a web-studio as a Frontend-developer,
+My name is **Siarhei Nikitsin**. I'm a **Junior Frontend Developer** and I have a real work experience for an about 1,5 years. I worked in a web-studio as a **Frontend-developer**,
 also I worked as a freelancer. I created different responsive markups for a single and multipage websites. In my work i used this list of techologies:
 
 * HTML 5
