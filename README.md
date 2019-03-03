@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+# https://serjnickey.github.io/rsschool-2019Q1-cv/cv
