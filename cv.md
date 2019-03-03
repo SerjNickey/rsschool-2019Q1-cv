@@ -47,9 +47,9 @@ My personal interests include **game industry** and projects based on **VR/AR** 
 My English level I think about B1 (I can read, listen, write and speak). 
 If you're interested in my skills and exprience - just message me via links down below. I think we can make a deal. 
 
-1. GitHUb
-2. Gmail
-3. Instagram
-4. Telegram
-5. Skype
-6. Phone
+- **GitHub: https://github.com/SerjNickey**
+- **Gmail: serjnickey@gmail.com**
+- **Instagram: https://instagram.com/nickname_greyson**
+- **Telegram: https://t.me/nickname_greyson**
+- **Skype: nickey_grey**
+- **Phone: +375 (25) 753-21-33**
